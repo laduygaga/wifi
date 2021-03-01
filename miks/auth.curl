@@ -1,1 +1,0 @@
-curl "http://10.5.50.1/login" -H "Content-Type: application/x-www-form-urlencoded" -H "Accept: text/html"  --data-raw "dst=&popup=true&username=guess&password=123" 
